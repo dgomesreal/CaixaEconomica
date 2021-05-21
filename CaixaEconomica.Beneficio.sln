@@ -11,19 +11,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Infra", "2 - Infra", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - API", "3 - API", "{1038924A-DCD4-4C25-B6E6-6AC1EE2C527B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaEconomica.Beneficio.Domain", "CaixaEconomica.Beneficio.Domain\CaixaEconomica.Beneficio.Domain.csproj", "{A47004F5-0343-4544-883B-604497412ADC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaEconomica.Tests.Domain", "CaixaEconomica.Tests.Domain\CaixaEconomica.Tests.Domain.csproj", "{7C5711F9-0B49-4B9C-82A1-C1F987216EC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaixaEconomica.Beneficio.Domain", "CaixaEconomica.Beneficio.Domain\CaixaEconomica.Beneficio.Domain.csproj", "{A47004F5-0343-4544-883B-604497412ADC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1 - Datas", "2.1 - Datas", "{579DE014-0B88-43A3-975A-8AD753BC0290}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2 - CrossCutting", "2.2 - CrossCutting", "{14F25399-0B64-45EA-A0D5-78EC37FA95DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaEconomica.Beneficio.Infra.Datas", "CaixaEconomica.Beneficio.Infra.Datas\CaixaEconomica.Beneficio.Infra.Datas.csproj", "{30E3A985-F59D-4D9B-A6B4-798C581CF6F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaixaEconomica.Beneficio.Infra.Datas", "CaixaEconomica.Beneficio.Infra.Datas\CaixaEconomica.Beneficio.Infra.Datas.csproj", "{30E3A985-F59D-4D9B-A6B4-798C581CF6F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc", "CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.csproj", "{6D60609D-7E62-43F5-9A2F-CF875D98FD49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc", "CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.csproj", "{6D60609D-7E62-43F5-9A2F-CF875D98FD49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaEconomica.Beneficio.API", "CaixaEconomica.Beneficio.API\CaixaEconomica.Beneficio.API.csproj", "{AC41AE41-D1C5-4F32-9EEC-0DE8434E7088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaixaEconomica.Beneficio.API", "CaixaEconomica.Beneficio.API\CaixaEconomica.Beneficio.API.csproj", "{AC41AE41-D1C5-4F32-9EEC-0DE8434E7088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaEconomica.Tests.Dominio", "CaixaEconomica.Tests.Dominio\CaixaEconomica.Tests.Dominio.csproj", "{6210BBBB-1ED3-43EC-82E8-C575F55571C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,6 @@ Global
 		{A47004F5-0343-4544-883B-604497412ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A47004F5-0343-4544-883B-604497412ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A47004F5-0343-4544-883B-604497412ADC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7C5711F9-0B49-4B9C-82A1-C1F987216EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C5711F9-0B49-4B9C-82A1-C1F987216EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C5711F9-0B49-4B9C-82A1-C1F987216EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C5711F9-0B49-4B9C-82A1-C1F987216EC1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{30E3A985-F59D-4D9B-A6B4-798C581CF6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{30E3A985-F59D-4D9B-A6B4-798C581CF6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30E3A985-F59D-4D9B-A6B4-798C581CF6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,18 +47,22 @@ Global
 		{AC41AE41-D1C5-4F32-9EEC-0DE8434E7088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC41AE41-D1C5-4F32-9EEC-0DE8434E7088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC41AE41-D1C5-4F32-9EEC-0DE8434E7088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6210BBBB-1ED3-43EC-82E8-C575F55571C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6210BBBB-1ED3-43EC-82E8-C575F55571C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6210BBBB-1ED3-43EC-82E8-C575F55571C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6210BBBB-1ED3-43EC-82E8-C575F55571C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A47004F5-0343-4544-883B-604497412ADC} = {D3695A0D-FEB3-4D3F-B286-140614408B8B}
-		{7C5711F9-0B49-4B9C-82A1-C1F987216EC1} = {E429FB0C-BF9B-4F68-80E0-9370A91DEDED}
 		{579DE014-0B88-43A3-975A-8AD753BC0290} = {D0419A8A-66CA-4563-BE00-CB5CAB20DEC1}
 		{14F25399-0B64-45EA-A0D5-78EC37FA95DE} = {D0419A8A-66CA-4563-BE00-CB5CAB20DEC1}
 		{30E3A985-F59D-4D9B-A6B4-798C581CF6F6} = {579DE014-0B88-43A3-975A-8AD753BC0290}
 		{6D60609D-7E62-43F5-9A2F-CF875D98FD49} = {14F25399-0B64-45EA-A0D5-78EC37FA95DE}
 		{AC41AE41-D1C5-4F32-9EEC-0DE8434E7088} = {1038924A-DCD4-4C25-B6E6-6AC1EE2C527B}
+		{6210BBBB-1ED3-43EC-82E8-C575F55571C1} = {E429FB0C-BF9B-4F68-80E0-9370A91DEDED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {727D4B1E-076D-4514-8B1B-FBECE0AD3883}

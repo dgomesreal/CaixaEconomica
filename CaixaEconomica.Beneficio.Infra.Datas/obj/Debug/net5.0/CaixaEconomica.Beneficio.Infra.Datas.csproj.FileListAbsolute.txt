@@ -1,0 +1,12 @@
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.Datas\bin\Debug\net5.0\CaixaEconomica.Beneficio.Infra.Datas.deps.json
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.Datas\bin\Debug\net5.0\CaixaEconomica.Beneficio.Infra.Datas.dll
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.Datas\bin\Debug\net5.0\ref\CaixaEconomica.Beneficio.Infra.Datas.dll
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.Datas\bin\Debug\net5.0\CaixaEconomica.Beneficio.Infra.Datas.pdb
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.Datas\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.Datas.csprojAssemblyReference.cache
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.Datas\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.Datas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.Datas\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.Datas.AssemblyInfoInputs.cache
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.Datas\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.Datas.AssemblyInfo.cs
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.Datas\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.Datas.csproj.CoreCompileInputs.cache
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.Datas\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.Datas.dll
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.Datas\obj\Debug\net5.0\ref\CaixaEconomica.Beneficio.Infra.Datas.dll
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.Datas\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.Datas.pdb

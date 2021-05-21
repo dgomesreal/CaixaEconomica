@@ -1,0 +1,12 @@
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\bin\Debug\net5.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.deps.json
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\bin\Debug\net5.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.dll
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\bin\Debug\net5.0\ref\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.dll
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\bin\Debug\net5.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.pdb
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.csprojAssemblyReference.cache
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.AssemblyInfoInputs.cache
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.AssemblyInfo.cs
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.dll
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\net5.0\ref\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.dll
+D:\Projects\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\net5.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.pdb

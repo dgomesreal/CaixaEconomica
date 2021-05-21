@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc/1.0.0": {
+        "runtime": {
+          "CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
